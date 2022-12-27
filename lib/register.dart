@@ -1,5 +1,5 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_constructors_in_immutables, prefer_interpolation_to_compose_strings, avoid_print
-
+//Check state
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
